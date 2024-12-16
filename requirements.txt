@@ -1,0 +1,9 @@
+speech_recognition
+pywin32
+whisper
+difflib
+pyaudio
+wave
+keyboard
+webbrowser
+vk_api
