@@ -11,9 +11,9 @@ Normal GPU or good CPU (Recommended 2+gb VRam)
  4+gb RAM
 
 # Install
-requirements.txt will help you... I guess
+requirements.txt is needed libs to start it
 
-starting through communism.py ... I guess.
+starting through communism.py then use bind and enjoy a little of funcs
 
 # Usage
 After all being installed and started use CTRL+ALT+A and then say something.
